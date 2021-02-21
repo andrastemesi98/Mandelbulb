@@ -1,0 +1,8 @@
+﻿  gCamera.cpp
+  main.cpp
+  MyApp.cpp
+c:\users\andris\desktop\informatika ii\grafika\nagybead\03_parsurf\03_parsurf\myapp.cpp(186): warning C4244: 'argument': conversion from 'Uint32' to 'GLfloat', possible loss of data
+c:\users\andris\desktop\informatika ii\grafika\nagybead\03_parsurf\03_parsurf\myapp.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\andris\desktop\informatika ii\grafika\nagybead\03_parsurf\03_parsurf\myapp.cpp(238): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  03_ParSurf.vcxproj -> C:\Users\Andris\Desktop\Informatika II\Grafika\Nagybead\03_ParSurf\Debug\03_ParSurf.exe
